@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.main {
+  position: fixed; 
+  margin-left: 100vh; 
+  margin-top: 315px; 
+  padding-left: 10px; 
+  padding-top: 10px;"
+}
